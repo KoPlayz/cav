@@ -1,4 +1,4 @@
-  Chomp Antivirus V1.0
+  Chomp Antivirus V2.0
 is an antivirus program for Windows created by Github user @TheC0des.
 
 Website: https://ch0mpantivirus.glitch.me
